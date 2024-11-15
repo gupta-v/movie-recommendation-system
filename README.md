@@ -83,9 +83,10 @@ movie-recommendation-system
 1. [GitHub Account](https://github.com/)
 2. [Render Account](https://render.com/)
 3. [Pinecone Account](https://www.pinecone.io/)
-4. [Python 3](https://www.python.org/downloads/)
-5. [VSCode IDE](https://code.visualstudio.com/)
-6. [Git CLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+4. [OMDB API](https://www.omdbapi.com/apikey.aspx?__EVENTTARGET=freeAcct&__EVENTARGUMENT=&__LASTFOCUS=&__VIEWSTATE=%2FwEPDwUKLTIwNDY4MTIzNQ9kFgYCAQ9kFgICBw8WAh4HVmlzaWJsZWhkAgIPFgIfAGhkAgMPFgIfAGhkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBQtwYXRyZW9uQWNjdAUIZnJlZUFjY3QFCGZyZWVBY2N0oCxKYG7xaZwy2ktIrVmWGdWzxj%2FDhHQaAqqFYTiRTDE%3D&__VIEWSTATEGENERATOR=5E550F58&__EVENTVALIDATION=%2FwEdAAU%2BO86JjTqdg0yhuGR2tBukmSzhXfnlWWVdWIamVouVTzfZJuQDpLVS6HZFWq5fYpioiDjxFjSdCQfbG0SWduXFd8BcWGH1ot0k0SO7CfuulHLL4j%2B3qCcW3ReXhfb4KKsSs3zlQ%2B48KY6Qzm7wzZbR&at=freeAcct&Email=)
+5. [Python 3](https://www.python.org/downloads/)
+6. [VSCode IDE](https://code.visualstudio.com/)
+7. [Git CLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
 ## Getting Started
 
